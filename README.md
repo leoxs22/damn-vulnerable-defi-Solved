@@ -2,7 +2,7 @@
 
 ## Solved challenges
 - [x]   Unstoppable
-- [ ]	Naive receiver
+- [x]	Naive receiver
 - [ ]	Truster
 - [ ]	Side entrance
 - [ ]	The rewarder
