@@ -1,5 +1,19 @@
 ![](cover.png)
 
+## Solved challenges
+- [x]   Unstoppable
+- [ ]	Naive receiver
+- [ ]	Truster
+- [ ]	Side entrance
+- [ ]	The rewarder
+- [ ]	Selfie
+- [ ]	Compromised
+- [ ]	Puppet
+- [ ]	Puppet v2
+- [ ]	Free rider
+- [ ]	Backdoor
+- [ ]	Climber
+
 **A set of challenges to hack implementations of DeFi in Ethereum.**
 
 Featuring flash loans, price oracles, governance, NFTs, lending pools, smart contract wallets, timelocks, and more!
